@@ -1,0 +1,5 @@
+{% extends "text.txt" %}
+
+{% block content %} 
+Contenuto 22222
+{% endblock content %}

@@ -1,0 +1,5 @@
+Header
+
+{% block content %}
+Contenuto 1
+{% endblock content %}
